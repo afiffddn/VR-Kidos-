@@ -1,0 +1,58 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Homepage.unity
+    guid: 0c6d9a60d97bcd84a94cbab18915fefc
+  - enabled: 1
+    path: Assets/Scenes/LoginStdnt.unity
+    guid: a6bf554ac76196649af008147dd93419
+  - enabled: 1
+    path: Assets/Scenes/LoginTeach.unity
+    guid: dc5a217aea9b4d54d839daabb57f3111
+  - enabled: 1
+    path: Assets/Scenes/RegisterAcc.unity
+    guid: 064c1c771290f144bb97bc9af5cae742
+  - enabled: 1
+    path: Assets/Scenes/Main Menu.unity
+    guid: ed125d6d40ac42d40843835f7abe7b4a
+  - enabled: 1
+    path: Assets/Scenes/LoadingWait1.unity
+    guid: 400b754e06b80de48a8c52d7699bd39c
+  - enabled: 1
+    path: Assets/Scenes/LoadingWait2.unity
+    guid: 89a44a301635aad428064397af6b4697
+  - enabled: 1
+    path: Assets/Scenes/AlphabetLearning.unity
+    guid: f5300b6ccd3f5dd48b63d82ec6b28671
+  - enabled: 1
+    path: Assets/Scenes/NumberLearning.unity
+    guid: 8c4ea64d1632d064181e1836eb1cf694
+  - enabled: 1
+    path: Assets/Scenes/ColorLearning.unity
+    guid: 61801ada90a1f39448251bb758da107b
+  - enabled: 1
+    path: Assets/Scenes/Quiz1.unity
+    guid: 5210e84ddd098584ebc690c9ba0f9c9d
+  - enabled: 1
+    path: Assets/Scenes/Quiz2.unity
+    guid: c8cf916637245914ea29db42af53b211
+  - enabled: 1
+    path: Assets/Scenes/Quiz3.unity
+    guid: a5b6a2b3f5807b84facbf8123d823be8
+  - enabled: 1
+    path: Assets/Scenes/QuizMenu.unity
+    guid: 82904e3bd6f714d468675356628fa303
+  - enabled: 1
+    path: Assets/Scenes/LoadingQuiz1.unity
+    guid: d764dd43a0404be41bd36d60f5a3b21e
+  - enabled: 1
+    path: Assets/Scenes/LoadingQuiz2.unity
+    guid: ff3b675455b4c6b42a2533020476af6a
+  - enabled: 1
+    path: Assets/Scenes/LoadingQuiz3.unity
+    guid: 100fd2b498d0cc3469dcb27129df9860
